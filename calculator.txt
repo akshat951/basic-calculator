@@ -1,0 +1,21 @@
+def add(x,y):
+    return x+y
+
+
+def sub(x,y):
+    return x-y
+
+
+def mul(x,y):
+    return x*y
+
+
+def div(x,y):
+    return x/y
+    
+   
+    
+print(add(1,5))
+print(sub(500,2000))
+print(mul(52121,5321))
+print(div(50020,500))  
